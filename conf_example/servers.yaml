@@ -1,0 +1,17 @@
+servers:
+- name: "docker"
+  host: "127.0.0.1"
+  user: "root"
+  pass: "password"
+  port: 3307
+  databases:
+  - "test"
+  - "test3"
+#- name: server2
+#  host: localhost
+#  user: user
+#  pass: password
+#  port: '3306'
+#  databases:
+#  - name: database1
+#  - name: database2
