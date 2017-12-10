@@ -9,8 +9,7 @@ These instructions will help you get the project setup on your machine/server.
 To install the latest stable version, run the following command:
 
 ```sh
-curl -OL https://raw.githubusercontent.com/daomor/precious/v0.1-alpha/install.sh | sh
-```
+curl -OL https://raw.githubusercontent.com/daomor/precious/v0.1-alpha/install.sh && sudo sh ./install.sh ```
 
 ## Settings
 
